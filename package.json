@@ -1,0 +1,33 @@
+{
+  "name": "the-council",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "train": "tsx scripts/kaggle-to-cases.ts",
+    "ingest": "tsx scripts/kaggle-to-cases.ts",
+    "filter": "tsx scripts/filter-cases.ts",
+    "build:index": "tsx -e \"import { buildIndex } from './src/embeddings.ts'; buildIndex();\"",
+    "build:kb": "npm run ingest && npm run filter && npm run build:index"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.0.0",
+    "duck-duck-scrape": "^2.2.7",
+    "marked": "^15.0.12",
+    "marked-terminal": "^7.3.0",
+    "nanoid": "^5.0.0",
+    "ora": "^8.0.1",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/marked-terminal": "^6.1.1",
+    "@types/node": "^20.0.0",
+    "@types/papaparse": "^5.3.14",
+    "tsx": "^4.0.0",
+    "typescript": "^5.4.0"
+  }
+}

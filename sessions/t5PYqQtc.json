@@ -1,0 +1,260 @@
+{
+  "sessionId": "t5PYqQtc",
+  "timestamp": "2026-05-24T18:22:40.513Z",
+  "rawDecision": "I am a sophomore (second-year) undergraduate. An open-source tool I built in my dorm room went viral on GitHub, and a venture capital firm has offered me $600,000 in seed funding on the condition that I drop out of university immediately to build the company full-time. \n\nMy parents immigrated to this country and worked blue-collar jobs specifically to pay for my university education; they would be absolutely devastated if I dropped out. \n\nMy university does not allow sophomore students to take more than a single semester's leave of absence. If I leave and the startup fails, I will lose my scholarship and will have to re-apply to university from scratch with no guarantee of readmission.",
+  "decisionType": "career",
+  "contextUsed": "",
+  "memberResponses": [
+    {
+      "memberId": "marcus",
+      "memberName": "Marcus Aurelius Chen",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360021,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "soren",
+      "memberName": "Dr. Soren Voss",
+      "rawResponse": "{\n  \"ASSUMPTION_CHALLENGED\": \n    \"The assumption that dropping out of university immediately to build a startup full-time is necessary for its success may be overstated, and alternative approaches could balance personal ambition with family expectations and financial responsibilities.\",\n  \n  \"ETHICAL_CORE\": \n    \"Prioritizing the well-being and sacrifices of one's parents over personal ambitions can lead to long-term integrity issues. However, this does not necessarily mean that dropping out is the right decision; it highlights the need for a careful consideration of values and priorities.\",\n    \n  \"MIRROR\": \n    \"Reflecting on your motivations reveals a desire to pursue entrepreneurial interests while also respecting family expectations. This tension suggests exploring alternative solutions that balance personal ambitions with financial responsibilities, such as negotiating a part-time arrangement or seeking guidance from university administrators.\",\n  \n  \"confidence\": 60\n}",
+      "auditedResponse": "**[ASSUMPTION CHALLENGED]**\nThe assumption that dropping out of university immediately to build a startup full-time is necessary for its success may be overstated, and alternative approaches could balance personal ambition with family expectations and financial responsibilities.\n\n**[ETHICAL CORE]**\nPrioritizing the well-being and sacrifices of one's parents over personal ambitions can lead to long-term integrity issues. However, this does not necessarily mean that dropping out is the right decision; it highlights the need for a careful consideration of values and priorities.\n\n**[MIRROR]**\nReflecting on your motivations reveals a desire to pursue entrepreneurial interests while also respecting family expectations. This tension suggests exploring alternative solutions that balance personal ambitions with financial responsibilities, such as negotiating a part-time arrangement or seeking guidance from university administrators.\n\n",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 351567,
+      "confidence": 60,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "Here is the exhaustive and brutally honest fact inventory:\n\nA. EXPLICIT FACTS:\n1. You are a sophomore undergraduate.\n2. An open-source tool you built went viral on GitHub.\n3. A venture capital firm has offered $600,000 in seed funding.\n4. The condition for receiving the funding is that you drop out of university immediately to build the company full-time.\n5. Your parents immigrated to this country and worked blue-collar jobs specifically to pay for your university education.\n6. You will be devastated if you drop out of university due to the impact on your parents.\n7. The university does not allow sophomore students to take more than a single semester's leave of absence.\n\nB. CRITICAL UNKNOWNS:\n1. What are the specific terms and conditions of the venture capital firm's offer, including any equity stakes or ownership requirements?\n2. How much time do you have before your scholarship expires if you don't use it within the next academic year?\n3. Are there any alternative funding options available to you that would allow you to stay in university while still pursuing your startup idea?\n4. What are the specific skills and expertise required for the venture capital firm's investment, and how will they support you as a founder?\n5. How does the startup plan to generate revenue and achieve scalability without significant external funding?\n\nC. HIDDEN ASSUMPTIONS:\n1. Assuming that dropping out of university is necessary for the success of your startup.\n2. Assuming that staying in university would hinder your ability to pursue your entrepreneurial idea.\n3. Assuming that you have a clear understanding of what it means to \"drop out\" and how it will affect your parents' financial situation.\n\nD. INITIAL HUNCH:\nBefore analyzing this decision, my gut direction is that dropping out of university may not be the best option for me, given the significant risks involved and the potential impact on my family's sacrifices."
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "This is a disaster.\n\n1. **Unsupported claim**: The assumption that my parents would \"be absolutely devastated\" if I dropped out of university is an emotional appeal rather than a well-reasoned argument. It's unclear how much they actually care about the startup or their financial investment in it, and this claim doesn't hold up to scrutiny.\n2. **Vague reasoning**: The draft lacks concrete evidence or logical connections between the points made. For example, why should I drop out of university immediately? What are the specific benefits of taking on $600,000 in seed funding from a venture capital firm?\n3. **Internal contradiction**: If my parents immigrated to this country and worked hard to pay for their education, it's unlikely they would be devastated if I dropped out of university. This statement seems contradictory to the previous one.\n4. **Ignored insights from pressure test**: The draft doesn't address any potential counterarguments or alternative perspectives that might have arisen during my pressure test. It simply presents a series of personal anecdotes without considering opposing viewpoints.\n5. **Improvement required**:\n\n* Develop a clear, evidence-based argument for why I should drop out of university and take on the venture capital funding.\n* Provide specific reasons for rejecting the offer, such as concerns about the startup's viability or my own educational goals.\n* Address potential risks and downsides to dropping out, including losing my scholarship and re-applying to university from scratch.\n* Consider alternative solutions that balance personal ambition with family expectations and financial responsibilities.\n\nThis draft needs a complete overhaul. I'd start by identifying my core values and priorities as an undergraduate student, then develop a logical argument for why taking on the venture capital funding is in line with those values."
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "{\n  \"ASSUMPTION_CHALLENGED\": \n    \"The assumption that dropping out of university immediately to build a startup full-time is necessary for its success may be overstated, and alternative approaches could balance personal ambition with family expectations and financial responsibilities.\",\n  \n  \"ETHICAL_CORE\": \n    \"Prioritizing the well-being and sacrifices of one's parents over personal ambitions can lead to long-term integrity issues. However, this does not necessarily mean that dropping out is the right decision; it highlights the need for a careful consideration of values and priorities.\",\n    \n  \"MIRROR\": \n    \"Reflecting on your motivations reveals a desire to pursue entrepreneurial interests while also respecting family expectations. This tension suggests exploring alternative solutions that balance personal ambitions with financial responsibilities, such as negotiating a part-time arrangement or seeking guidance from university administrators.\",\n  \n  \"confidence\": 60\n}"
+        }
+      ]
+    },
+    {
+      "memberId": "rachel",
+      "memberName": "Rachel Stone",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360013,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "lena",
+      "memberName": "Lena Morrow",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360015,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "arjun",
+      "memberName": "Arjun Mehta",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360016,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    }
+  ],
+  "synthesis": {
+    "consensus": "There is a general agreement that dropping out of university to build the startup full-time may not be necessary for its success, and alternative approaches could balance personal ambition with family expectations and financial responsibilities.",
+    "coreTension": "The core tension lies in balancing individual ambitions with family sacrifices, as prioritizing one over the other can lead to integrity issues or missed opportunities.",
+    "finalVerdict": "Consider negotiating a part-time arrangement with the university that allows you to continue your studies while also dedicating time to the startup. This approach would respect both personal ambitions and financial responsibilities, potentially mitigating potential risks of losing scholarship or readmission. Additionally, explore guidance from university administrators on how to balance academic obligations with entrepreneurial pursuits.",
+    "confidenceScore": 52,
+    "questionsToAnswer": [
+      "What are your parents' expectations for you in terms of education and career path?",
+      "How would a part-time arrangement impact the startup's growth potential?",
+      "Are there any university resources or programs that could support your entrepreneurial endeavors while maintaining academic obligations?"
+    ],
+    "parseError": false,
+    "consistencyFlags": [
+      "Member A says dropping out of university is necessary for startup success, while Member B implies alternative approaches could balance personal ambition with family expectations and financial responsibilities."
+    ]
+  },
+  "followUps": []
+}

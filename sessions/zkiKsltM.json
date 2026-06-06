@@ -1,0 +1,254 @@
+{
+  "sessionId": "zkiKsltM",
+  "timestamp": "2026-05-25T08:21:19.325Z",
+  "rawDecision": "I am a freshman student double-majoring in Physics and Data Science. I am taking 20 credits per semester, which leaves me with under 5 hours of sleep per night, no social life, and severe anxiety. My current GPA is 3.4. \n\nIf I drop one of the majors to focus on a single degree, my GPA will likely rise to 3.9, and I will have time to participate in research labs, internships, and have a healthy personal life. However, I want to go into Quantum Computing—a field that values both disciplines—and dropping a major feels like I am quitting and failing my own high standards.",
+  "decisionType": "career",
+  "contextUsed": "",
+  "memberResponses": [
+    {
+      "memberId": "marcus",
+      "memberName": "Marcus Aurelius Chen",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 1467125,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "soren",
+      "memberName": "Dr. Soren Voss",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[UNVERIFIED: dropping a major will likely rise to 3.9 GPA], [CONTRADICTION DETECTED]: dropping a major feels like quitting and failing high standards, yet wanting to pursue Quantum Computing that values both disciplines",
+      "hallucinationRisk": "LOW",
+      "flags": [],
+      "latencyMs": 1446055,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "**Decision Analysis Inventory**\n\nA. EXPLICIT FACTS:\n\n1. The student is a freshman double-majoring in Physics and Data Science.\n2. They are taking 20 credits per semester, resulting in under 5 hours of sleep per night.\n3. The student has no social life due to their academic schedule.\n4. They experience severe anxiety as a result of their current situation.\n5. Their current GPA is 3.4.\n6. Dropping one major would likely increase their GPA to 3.9.\n7. Participating in research labs, internships, and having a healthy personal life are desired outcomes.\n\nB. CRITICAL UNKNOWNS:\n\n1. The specific details of the Quantum Computing field's requirements for both Physics and Data Science majors.\n2. How dropping one major will affect their ability to pursue research opportunities related to Quantum Computing.\n3. The potential impact on their career prospects if they drop a major, considering the increasing importance of interdisciplinary skills in Quantum Computing.\n\nC. HIDDEN ASSUMPTIONS:\n\n1. Dropping a major is equivalent to \"quitting\" and failing one's own high standards.\n2. A healthy personal life can be achieved with only 5 hours of sleep per night.\n3. The student's current GPA is solely due to their academic schedule, without considering other factors such as learning style or aptitude.\n\nD. INITIAL HUNCH:\nThe decision to drop a major may not necessarily lead to the desired outcome of pursuing Quantum Computing, and alternative solutions should be explored before making a drastic change."
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "**Ruthless Critique**\n\n1. **Unsupported claims**: The claim that dropping one major will automatically lead to a 3.9 GPA is unsubstantiated and overly optimistic. There are many factors that influence academic performance, such as the specific courses taken, teaching quality, and individual student effort.\n\n2. **Vague or generic reasoning**: The draft lacks concrete evidence and logical connections between the proposed solution (dropping one major) and its expected outcomes (improved GPA, research opportunities, healthy personal life). It relies on vague statements about \"high standards\" without explaining what those standards are or how they can be achieved.\n\n3. **Internal contradictions**: The statement \"I want to go into Quantum Computing—a field that values both disciplines\"—is contradictory to the idea of dropping one major. If you value both Physics and Data Science, why would you consider abandoning one of them? This inconsistency undermines the coherence of the argument.\n\n4. **Ignored insights from pressure test**: I was asked about my own drafted answer, but there is no draft provided for me to critique. It appears that this exercise is based on a hypothetical scenario rather than an actual analysis of your thoughts and concerns.\n\n5. **Improvement required**:\n\t* Provide concrete evidence and data to support the claim that dropping one major will lead to improved academic performance.\n\t* Offer specific examples or scenarios where you can apply both Physics and Data Science in Quantum Computing, making it clear why this field is worth pursuing despite the potential drawbacks of abandoning a major.\n\t* Clarify what \"high standards\" mean and how they relate to your goals and aspirations.\n\t* Address the internal contradiction by explaining why dropping one major might be necessary for you to achieve your desired outcome."
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "rachel",
+      "memberName": "Rachel Stone",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "> I am a freshman student double-majoring in Physics and Data Science. I am taking 20 credits per semester, which leaves me with under 5 hours of sleep per night, no social life, and severe anxiety. My current GPA is 3.4. \n\n If I drop one of the majors to focus on a single degree, my GPA will likely rise to 3.9, and I will have time to participate in research labs, internships, and have a healthy personal life. However, I want to go into Quantum Computing—a field that values both disciplines—and dropping a major feels like I am quitting and failing my own high standards.",
+      "hallucinationRisk": "LOW",
+      "flags": [],
+      "latencyMs": 1455018,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "Here is the exhaustive and brutally honest fact inventory:\n\nA. EXPLICIT FACTS:\n1. You are a freshman student double-majoring in Physics and Data Science.\n2. You take 20 credits per semester, leaving you with under 5 hours of sleep per night.\n3. Your current GPA is 3.4.\n4. Dropping one major would likely raise your GPA to 3.9.\n5. Quantum Computing values both disciplines.\n\nB. CRITICAL UNKNOWNS:\n1. What are the specific requirements and expectations for a research lab or internship in Quantum Computing?\n2. How do these opportunities impact your career prospects, salary potential, and overall job satisfaction?\n3. Are there any alternative paths to pursue Quantum Computing that don't require dropping one of your current majors?\n\nC. HIDDEN ASSUMPTIONS:\n1. You assume that focusing on a single degree will automatically lead to success in Quantum Computing.\n2. You assume that dropping one major is the only viable option for pursuing Quantum Computing.\n\nD. INITIAL HUNCH: \nYour gut direction before analysis seems to be that you should drop one of your majors to focus on Quantum Computing, despite feeling like it's \"quitting\" and \"failing\" your own high standards."
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "lena",
+      "memberName": "Lena Morrow",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 1467154,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "arjun",
+      "memberName": "Arjun Mehta",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 1467161,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    }
+  ],
+  "synthesis": {
+    "consensus": "",
+    "coreTension": "",
+    "finalVerdict": "Synthesis failed.",
+    "confidenceScore": 0,
+    "questionsToAnswer": [],
+    "parseError": true,
+    "consistencyFlags": []
+  },
+  "followUps": []
+}

@@ -1,0 +1,260 @@
+{
+  "sessionId": "wvDbrd3t",
+  "timestamp": "2026-05-24T18:52:17.164Z",
+  "rawDecision": "I want to eat ice cream but I have cold \n",
+  "decisionType": "personal",
+  "contextUsed": "",
+  "memberResponses": [
+    {
+      "memberId": "marcus",
+      "memberName": "Marcus Aurelius Chen",
+      "rawResponse": "{\n  \"RISK\": \"[UNCERTAIN] Overindulging in ice cream may exacerbate cold symptoms, potentially prolonging recovery time or worsening health outcomes.\",\n  \"OPPORTUNITY\": \"None explicitly stated, but exploiting the uncertainty around ice cream's impact on cold symptoms could provide an asymmetric advantage if done carefully.\",\n  \"VERDICT\": \"Consider alternative comfort measures (e.g., warm beverages, herbal teas) to satisfy cravings without compromising health. If still desiring ice cream, opt for a small serving or choose a flavor that may be easier on the stomach during illness.\",\n  \"confidence\": 60\n}",
+      "auditedResponse": "**[RISK]**\n[UNCERTAIN] Overindulging in ice cream may exacerbate cold symptoms, potentially prolonging recovery time or worsening health outcomes.\n\n**[OPPORTUNITY]**\nNone explicitly stated, but exploiting the uncertainty around ice cream's impact on cold symptoms could provide an asymmetric advantage if done carefully.\n\n**[VERDICT]**\nConsider alternative comfort measures (e.g., warm beverages, herbal teas) to satisfy cravings without compromising health. If still desiring ice cream, opt for a small serving or choose a flavor that may be easier on the stomach during illness.\n\n",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 336408,
+      "confidence": 60,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "**Decision Analysis**\n\nA. EXPLICIT FACTS:\n1. You want to eat ice cream.\n2. You have a cold.\n\nB. CRITICAL UNKNOWNS:\n1. The severity of your cold (mild, moderate, severe).\n2. Your current health status (e.g., fever, fatigue, congestion).\n3. Any dietary restrictions or allergies you may have.\n4. The type and quantity of ice cream available to you.\n5. Whether eating ice cream will exacerbate any symptoms of your cold.\n\nC. HIDDEN ASSUMPTIONS:\n1. That eating ice cream is a healthy choice when feeling under the weather.\n2. That having a cold means you should avoid indulging in sweet treats.\n3. That ice cream's potential benefits (e.g., mood booster, stress reliever) outweigh its potential drawbacks.\n\nD. INITIAL HUNCH: \nYour gut direction before analysis suggests that eating ice cream might not be the best idea when you have a cold, due to concerns about exacerbating symptoms or compromising your health."
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "{\n  \"RISK\": \"[UNCERTAIN] Overindulging in ice cream may exacerbate cold symptoms, potentially prolonging recovery time or worsening health outcomes.\",\n  \"OPPORTUNITY\": \"None explicitly stated, but exploiting the uncertainty around ice cream's impact on cold symptoms could provide an asymmetric advantage if done carefully.\",\n  \"VERDICT\": \"Consider alternative comfort measures (e.g., warm beverages, herbal teas) to satisfy cravings without compromising health. If still desiring ice cream, opt for a small serving or choose a flavor that may be easier on the stomach during illness.\",\n  \"confidence\": 60\n}"
+        }
+      ]
+    },
+    {
+      "memberId": "soren",
+      "memberName": "Dr. Soren Voss",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360016,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "rachel",
+      "memberName": "Rachel Stone",
+      "rawResponse": "{\n  \"BLOCKERS\": [\n    \"• Unknown type of cold\",\n    \"• Severity of cold symptoms unknown\",\n    \"• Underlying health conditions unaccounted for\",\n    \"• Potential exacerbation by ice cream ingredients\"\n  ],\n  \"RESOURCES_NEEDED\": [\n    \"• Medical information on cold types and severity\",\n    \"• Personal medical history or health records\",\n    \"• Information on specific ice cream flavors and ingredients\"\n  ],\n  \"ACTION_PLAN\": [\n    1.1, \n    2.1,\n    3.1\n  ],\n  \"confidence\": 60\n}",
+      "auditedResponse": "**[BLOCKERS]**\n• Unknown type of cold,• Severity of cold symptoms unknown,• Underlying health conditions unaccounted for,• Potential exacerbation by ice cream ingredients\n\n**[RESOURCES NEEDED]**\n• Medical information on cold types and severity,• Personal medical history or health records,• Information on specific ice cream flavors and ingredients\n\n**[ACTION PLAN]**\n1.1,2.1,3.1\n\n",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 356354,
+      "confidence": 60,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "Here is my fact inventory for the decision:\n\nA. EXPLICIT FACTS:\n1. You want to eat ice cream.\n2. You have a cold.\n\nB. CRITICAL UNKNOWNS:\n1. What type of cold do you have (viral, bacterial, or allergic)?\n2. How severe is your cold's symptoms (mild, moderate, or severe)?\n3. Do you have any underlying health conditions that may affect your ability to consume ice cream?\n4. Are there any specific flavors or ingredients in the ice cream that could exacerbate your cold symptoms?\n\nC. HIDDEN ASSUMPTIONS:\n1. You assume it's okay to eat ice cream with a cold.\n2. You assume you can tolerate the temperature of the ice cream without discomfort.\n\nD. INITIAL HUNCH: \nYou may want to reconsider eating ice cream due to its potential to irritate your cold symptoms, but I need more information to confirm this intuition."
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "{\n  \"BLOCKERS\": [\n    \"• Unknown type of cold\",\n    \"• Severity of cold symptoms unknown\",\n    \"• Underlying health conditions unaccounted for\",\n    \"• Potential exacerbation by ice cream ingredients\"\n  ],\n  \"RESOURCES_NEEDED\": [\n    \"• Medical information on cold types and severity\",\n    \"• Personal medical history or health records\",\n    \"• Information on specific ice cream flavors and ingredients\"\n  ],\n  \"ACTION_PLAN\": [\n    1.1, \n    2.1,\n    3.1\n  ],\n  \"confidence\": 60\n}"
+        }
+      ]
+    },
+    {
+      "memberId": "lena",
+      "memberName": "Lena Morrow",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360016,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    },
+    {
+      "memberId": "arjun",
+      "memberName": "Arjun Mehta",
+      "rawResponse": "[REFINED SYNTHESIS unavailable]",
+      "auditedResponse": "[REFINED SYNTHESIS unavailable]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 360020,
+      "confidence": 50,
+      "thinkingStages": [
+        {
+          "id": "parse",
+          "label": "PARSE",
+          "content": "[PARSE unavailable]"
+        },
+        {
+          "id": "steelman",
+          "label": "STEELMAN",
+          "content": "[STEELMAN unavailable]"
+        },
+        {
+          "id": "pressure_test",
+          "label": "PRESSURE TEST",
+          "content": "[PRESSURE TEST unavailable]"
+        },
+        {
+          "id": "pre_mortem",
+          "label": "PRE-MORTEM",
+          "content": "[PRE-MORTEM unavailable]"
+        },
+        {
+          "id": "draft",
+          "label": "DRAFT SYNTHESIS",
+          "content": "[DRAFT SYNTHESIS unavailable]"
+        },
+        {
+          "id": "cross_examination",
+          "label": "CROSS-EXAMINATION",
+          "content": "[CROSS-EXAMINATION unavailable]"
+        },
+        {
+          "id": "refined_synthesis",
+          "label": "REFINED SYNTHESIS",
+          "content": "[REFINED SYNTHESIS unavailable]"
+        }
+      ]
+    }
+  ],
+  "synthesis": {
+    "consensus": "There is general agreement that consuming ice cream while having a cold may not be the best choice, with some members suggesting alternative comfort measures and others highlighting the need for more information on specific health conditions.",
+    "coreTension": "The uncertainty around the impact of ice cream on cold symptoms, particularly in relation to unknown types of colds or underlying health conditions, creates tension between considering the potential benefits of indulging in ice cream versus prioritizing caution.",
+    "finalVerdict": "Before deciding whether to eat ice cream, consider consulting medical information on common cold types and severity, as well as personal medical history. If still desired, opt for a small serving or choose a flavor that may be easier on the stomach during illness. It is also recommended to prioritize alternative comfort measures such as warm beverages or herbal teas.",
+    "confidenceScore": 54,
+    "questionsToAnswer": [
+      "What type of cold are you experiencing?",
+      "Do you have any underlying health conditions that could be affected by consuming ice cream?",
+      "Have you consulted with a medical professional about your symptoms and potential risks?"
+    ],
+    "parseError": false,
+    "consistencyFlags": [
+      "Marcus Aurelius Chen: 'Overindulging in ice cream may exacerbate cold symptoms' contradicts Rachel Stone's 'Potential exacerbation by ice cream ingredients'."
+    ]
+  },
+  "followUps": []
+}

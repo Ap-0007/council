@@ -1,0 +1,67 @@
+{
+  "sessionId": "zdJMjb_7",
+  "timestamp": "2026-05-23T18:51:18.810Z",
+  "rawDecision": "I need to decide whether to buy a house in San Francisco or continue renting while investing the difference.",
+  "decisionType": "strategic",
+  "contextUsed": "",
+  "memberResponses": [
+    {
+      "memberId": "marcus",
+      "memberName": "Marcus Aurelius Chen",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 3,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "soren",
+      "memberName": "Dr. Soren Voss",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 3,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "rachel",
+      "memberName": "Rachel Stone",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 3,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "lena",
+      "memberName": "Lena Morrow",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 2,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "arjun",
+      "memberName": "Arjun Mehta",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 2,
+      "error": "OLLAMA_MODEL"
+    }
+  ],
+  "synthesis": {
+    "consensus": "",
+    "coreTension": "",
+    "finalVerdict": "Synthesis failed.",
+    "confidenceScore": 0,
+    "questionsToAnswer": [],
+    "parseError": true
+  }
+}

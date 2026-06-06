@@ -1,0 +1,67 @@
+{
+  "sessionId": "YKfOt3W-",
+  "timestamp": "2026-05-23T18:48:36.154Z",
+  "rawDecision": "i dont cd /Users/amogh/Documents/council",
+  "decisionType": "strategic",
+  "contextUsed": "",
+  "memberResponses": [
+    {
+      "memberId": "marcus",
+      "memberName": "Marcus Aurelius Chen",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 5,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "soren",
+      "memberName": "Dr. Soren Voss",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 4,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "rachel",
+      "memberName": "Rachel Stone",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 5,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "lena",
+      "memberName": "Lena Morrow",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 4,
+      "error": "OLLAMA_MODEL"
+    },
+    {
+      "memberId": "arjun",
+      "memberName": "Arjun Mehta",
+      "rawResponse": "[MEMBER UNAVAILABLE]",
+      "auditedResponse": "[MEMBER UNAVAILABLE]",
+      "hallucinationRisk": "UNKNOWN",
+      "flags": [],
+      "latencyMs": 5,
+      "error": "OLLAMA_MODEL"
+    }
+  ],
+  "synthesis": {
+    "consensus": "",
+    "coreTension": "",
+    "finalVerdict": "Synthesis failed.",
+    "confidenceScore": 0,
+    "questionsToAnswer": [],
+    "parseError": true
+  }
+}
